@@ -1,1 +1,9 @@
-admin can veiw users
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>veiw users</title>
+</head>
+<body>
+   <marquee>it is veiw users page</marquee> 
+</body>
+</html>

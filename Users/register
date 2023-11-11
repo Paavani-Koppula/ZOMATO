@@ -1,1 +1,9 @@
-user has to be register
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>register</title>
+</head>
+<body>
+   <marquee>it is register page</marquee> 
+</body>
+</html>

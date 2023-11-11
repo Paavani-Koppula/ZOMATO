@@ -1,1 +1,9 @@
-to veiw orders
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>veiw orders</title>
+</head>
+<body>
+   <marquee>it is veiw orders page</marquee> 
+</body>
+</html>
